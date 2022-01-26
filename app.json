@@ -11,7 +11,7 @@
     "website": "https://github.com/kamarjahan/PRO-SIMPLE-AUTOFILTER-BOT",
     "repository": "https://github.com/kamarjahan/PRO-SIMPLE-AUTOFILTER-BOT",
     "success_url": "https://telegram.dog/devourdevils",
-    "helper_url": https://t.me/TEAM_NARUTO_GRUOP",
+    "helper_url": "https://t.me/TEAM_NARUTO_GRUOP",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
