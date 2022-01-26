@@ -3,9 +3,9 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+You can call this as team dd bot  if you like :D
 
-This is Version 2 of Auto Filter Bot
+This is Version 4.6 of Auto Filter Bot
 
 Bot gives button link to files in connected channels on query !
 
@@ -30,7 +30,7 @@ For more click <i>help</i></b>"""
 or
 * <code>/add @channelusername</code> - Links channel to your group.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+<i>NOTE : You can get your channel ID from @mt_information_bot </i>
 
 
 * <code>/del channelid</code>  -  Delinks channel from group
@@ -53,12 +53,14 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @devourdevils</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : team devour devils</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @devourdevils
+
+⭕️<b>Creater :</b> @TEAM_NARUTO_GRUOP
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
