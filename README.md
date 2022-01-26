@@ -1,3 +1,3 @@
 # PRO-SIMPLE-AUTOFILTER-BOT
 
-https://heroku.com/deploy?template=https://github.com/kamarjahan/TELEGRAPH-MAKER
+https://heroku.com/deploy?template=https://github.com/kamarjahan/PRO-SIMPLE-AUTOFILTER-BOT
