@@ -1,27 +1,28 @@
 {
-    "name": "Auto Filter Bot",
+    "name": "team devourdevils",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/b308d89346393bae36e67.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://github.com/kamarjahan/PRO-SIMPLE-AUTOFILTER-BOT",
+    "repository": "https://github.com/kamarjahan/PRO-SIMPLE-AUTOFILTER-BOT",
+    "success_url": "https://telegram.dog/devourdevils",
+    "helper_url": https://t.me/TEAM_NARUTO_GRUOP
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID from my.telegram.org",
             "value": ""
         },
         "TG_USER_SESSION": {
